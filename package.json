@@ -1,0 +1,20 @@
+{
+  "name": "boilerplates",
+  "version": "1.0.0",
+  "description": "Collection of code snippets, templates and boilerplates for multiple frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jv-learning/boilerplates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jv-learning/boilerplates/issues"
+  },
+  "homepage": "https://github.com/jv-learning/boilerplates#readme"
+}
